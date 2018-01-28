@@ -1,4 +1,4 @@
-#checks a domain's mx records to see if it's vulerable to DNS hijacking or configured incorrectly
+#checks a domain's mx records to see if it's configured incorrectly
 
 import subprocess
 import time
